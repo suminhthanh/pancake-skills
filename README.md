@@ -329,3 +329,7 @@ echo '{"action":"reply_inbox","message":"Xin chào!"}' | \
 ## Tham chiếu API
 
 Xem đầy đủ OpenAPI specification tại `references/openapi-pancake.yaml`.
+
+## Khoá học Vibe Code thực chiến toàn diện
+[https://vibecode.edu.vn](https://vibecode.edu.vn)
+
